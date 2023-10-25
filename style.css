@@ -258,6 +258,7 @@ footer {
 
   section p {
     font-size: 14px;
+    justify-content: justify;
   }
 
   .articles {
@@ -269,7 +270,7 @@ footer {
   .articles article {
     width: 70%;
     align-items: center;
-    justify-content: center;
+    justify-content: justify;
     margin: 5px auto;
   }
 }
